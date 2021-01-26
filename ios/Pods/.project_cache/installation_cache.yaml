@@ -9177,6 +9177,8 @@ CACHE_KEYS:
       - "../../packages/expo-updates/ios/EXUpdates/AppLauncher/EXUpdatesAppLauncherWithDatabase.h"
       - "../../packages/expo-updates/ios/EXUpdates/AppLauncher/EXUpdatesAppLauncherWithDatabase.m"
       - "../../packages/expo-updates/ios/EXUpdates/AppLauncher/EXUpdatesSelectionPolicy.h"
+      - "../../packages/expo-updates/ios/EXUpdates/AppLauncher/EXUpdatesSelectionPolicyFilterAware.h"
+      - "../../packages/expo-updates/ios/EXUpdates/AppLauncher/EXUpdatesSelectionPolicyFilterAware.m"
       - "../../packages/expo-updates/ios/EXUpdates/AppLauncher/EXUpdatesSelectionPolicyNewest.h"
       - "../../packages/expo-updates/ios/EXUpdates/AppLauncher/EXUpdatesSelectionPolicyNewest.m"
       - "../../packages/expo-updates/ios/EXUpdates/AppLoader/EXUpdatesAppLoader+Private.h"
